@@ -6,4 +6,8 @@ Flutter Calculator App with Logic
 
 <img src="https://github.com/yabeye/flutter-calculator/blob/master/screenshots/demo.png" alt="calculator" width="320" height="650"/>
 
+
+### Logic Included
+<img src="https://github.com/yabeye/flutter-calculator/blob/master/screenshots/demopi.png" alt="calculator" width="320" height="650"/>
+
 by @yabeye github contribution Apr, 2021.
